@@ -5,6 +5,7 @@ The [Apply service](https://github.com/ministryofjustice/laa-apply-for-legal-aid
 
 ## Previously worked on
 [Claim for Crown Court Defence](https://github.com/ministryofjustice/Claim-for-Crown-Court-Defence)
+
 Help with Fees - [staff](https://github.com/ministryofjustice/fr-staffapp) and [public](https://github.com/ministryofjustice/hwf-publicapp)
 and many more
 
